@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Q-and-A/static/css/main.9d8cd8a9.css",
+    "main.js": "/Q-and-A/static/js/main.7de5f485.js",
+    "index.html": "/Q-and-A/index.html",
+    "main.9d8cd8a9.css.map": "/Q-and-A/static/css/main.9d8cd8a9.css.map",
+    "main.7de5f485.js.map": "/Q-and-A/static/js/main.7de5f485.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d8cd8a9.css",
+    "static/js/main.7de5f485.js"
+  ]
+}
